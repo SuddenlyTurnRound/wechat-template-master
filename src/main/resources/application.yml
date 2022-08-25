@@ -1,0 +1,31 @@
+server:
+  port: 8080
+
+#公众号配置
+wechat:
+  #测试号appId
+  appId: wx13958b90b5606050
+  #测试号appsecret
+  appSecret: 2b1b9facadfe08fe0da1bcf11204209f
+  #天气测试模板id
+  tempId: NmpA1JDFtCRruI4DNZQD7K65QiW7OaVYbky4NK5eIdg
+  #喝水提示模板id
+  drinkTempId:
+  # 下班提示模板id
+  offDutyTempId:
+  # 自己的生日 yyyy-MM-dd
+  myBirthday:
+  # 对象生日
+  babyBirthday:
+  # 纪念日
+  loveDay:
+  # 百度地图应用AK
+  baiduAK: 4RXCn285ZPaVCSWol3kCOGYq5j9u2FPM
+
+
+#彩虹屁接口
+tianapi:
+  #天行数据api的apiKey
+  appKey: ad7093403a2e1a2cc7bbaabcea6edca0
+  #天气城市
+  area: 210100
